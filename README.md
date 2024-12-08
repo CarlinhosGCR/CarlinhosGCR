@@ -10,23 +10,83 @@ Meus projetos com a comunidade do DevClub demonstram minha capacidade de aprende
 
 Projetos Notáveis
 
-- [Projeto 1: Breve descrição]
-- [Projeto 2: Breve descrição]
-- [Projeto 3: Breve descrição]
+- [Projeto 1:
+
+- Título
+We Care - About Your Pet
+
+Descrição
+Plataforma de cuidado e informação sobre animais de estimação, oferecendo recursos e serviços para proprietários de pets.
+
+Características
+
+1. Design responsivo e minimalista
+2. Navegação intuitiva
+3. Seção de login
+4. Informações sobre cuidado de pets
+5. Botão "Explore" para mais conteúdo
+
+Tecnologias utilizadas
+
+1. HTML5
+2. CSS3
+3. Google Fonts (Montserrat)
+4. Media Queries para responsividade]
+
+- [Projeto 2:
+
+- Título
+Wide Coverage
+
+Descrição
+Plataforma de compartilhamento de caronas, oferecendo cobertura ampla e conveniente.
+
+Características
+
+1. Design responsivo e moderno
+2. Navegação intuitiva
+3. Botão de cadastro
+4. Informações sobre compartilhamento de caronas
+5. Botão "Learn more" para mais conteúdo
+
+Tecnologias utilizadas
+
+1. HTML5
+2. CSS3
+3. Google Fonts (Poppins)
+4. Media Queries para responsividade
+
+
+-  [Projeto 3: Título
+Easy Shopping
+
+Descrição
+Plataforma de compras móveis, oferecendo experiência intuitiva e moderna.
+
+Características
+
+1. Design responsivo
+2. Navegação simples
+3. Botão "Get Started"
+4. Informações sobre compras móveis
+5. Imagem decorativa
+
+Tecnologias utilizadas
+
+1. HTML5
+2. CSS3
+3. Google Fonts (Oswald)
+4. Media Queries para responsividade
+]
 
 Objetivos
 
 Estou comprometido em continuar aprendendo e crescendo como programador. Meus objetivos incluem:
 
-1. Aprofundar conhecimentos em [área específica, ex: Inteligência Artificial, Desenvolvimento Web].
-2. Contribuir para projetos open-source.
-3. Desenvolver soluções inovadoras que impactem positivamente a sociedade.
-
-Redes Sociais
-
-- LinkedIn: [seu perfil]
-- GitHub: [seu perfil]
-- Twitter: [seu perfil]
+1. Trabalhar efetivamente nesta área
+2. Aprofundar conhecimentos em [área específica, ex: Inteligência Artificial, Desenvolvimento Web].
+3. Contribuir para projetos open-source.
+4. Desenvolver soluções inovadoras que impactem positivamente a sociedade.
 
 Contato
 
