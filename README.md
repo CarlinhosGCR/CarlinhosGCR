@@ -1,6 +1,6 @@
 Sobre Mim
 
-Após uma destacada carreira militar, onde desenvolvi habilidades essenciais em liderança, disciplina e resolução de problemas, estou embarcando em uma nova missão: tornar-me um programador excepcional. Minha paixão pela tecnologia e inovação me levou a explorar o mundo 
+Após minha carreira militar, onde desenvolvi habilidades essenciais em liderança, disciplina e resolução de problemas, estou embarcando em uma nova missão: tornar-me um programador excepcional. Minha paixão pela tecnologia e inovação me levou a explorar o mundo 
 da programação, onde encontrei um desafio intelectual estimulante e uma comunidade vibrante.
 
 Minha Jornada
