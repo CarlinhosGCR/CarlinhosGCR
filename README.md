@@ -19,5 +19,9 @@ Meus projetos com a comunidade do <a href="https://rodolfomori.com.br/devclub/" 
 
 <strong>Contato</strong>
 
-<p>Estou ansioso para conectar-me com outros profissionais de tecnologia e compartilhar experiências. Entre em contato: <a href="mailto:carlosanndre.programador@gmail.com">carlosanndre.programador@gmail.coml<a/>.</p>
+<p>Estou ansioso para conectar-me com outros profissionais de tecnologia e compartilhar experiências. 
+  
+  Entre em contato:
+  
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <a href="mailto:carlosanndre.programador@gmail.com">carlosanndre.programador@gmail.coml<a/>.</p>
 
