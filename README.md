@@ -11,7 +11,7 @@ Meus projetos com a comunidade do <a href="https://rodolfomori.com.br/devclub/" 
 <h2>Estou comprometido em continuar aprendendo e crescendo como programador</h2>
 <h3>Meus objetivos incluem:</h3>
 <ol>
-<li>Trabalhar efetivamente nesta área</li>
+<li>Trabalhar ativamente nesta área</li>
 <li>Aprofundar conhecimentos em [área específica, ex: Inteligência Artificial, Desenvolvimento Web].</li>
 <li>Contribuir para projetos open-source.</li>
 <li>Desenvolver soluções inovadoras que impactem positivamente a sociedade.</li>
