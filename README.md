@@ -8,8 +8,7 @@
   
 Meus projetos com a comunidade do <a href="https://rodolfomori.com.br/devclub/" target="blank" >DevClub</a> demonstram minha capacidade de aprender rapidamente e adaptar-me a novas tecnologias (Estão nos repositórios Populares).
 
-<h2>Estou comprometido em continuar aprendendo e crescendo como programador</h2>
-<h3>Meus objetivos incluem:</h3>
+<h2>Meus objetivos incluem:</h2>
 <ol>
 <li>Trabalhar ativamente nesta área</li>
 <li>Aprofundar conhecimentos em [área específica, ex: Inteligência Artificial, Desenvolvimento Web].</li>
