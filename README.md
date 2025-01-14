@@ -5,7 +5,9 @@
     <li><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"img></li> 
     <li><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" img></li> 
     <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"img></li></ol>
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlinhosGCR&layout=compact)
+
 Meus projetos com a comunidade do <a href="https://rodolfomori.com.br/devclub/" target="blank" >DevClub</a> demonstram minha capacidade de aprender rapidamente e adaptar-me a novas tecnologias (Estão nos repositórios Populares).
 
 <h2>Meus objetivos incluem:</h2>
